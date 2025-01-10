@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ff11e329.css",
+    "main.js": "/Portfolio/static/js/main.d095dd4a.js",
+    "static/js/488.9561f9b8.chunk.js": "/Portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/Cement.otf": "/Portfolio/static/media/Cement.14217631f7cfeb90b43f.otf",
+    "static/media/background.jpg": "/Portfolio/static/media/background.c6bc55a7d897096e9046.jpg",
+    "static/media/VeganStyle.ttf": "/Portfolio/static/media/VeganStyle.0aec18fe70f7524809cf.ttf",
+    "static/media/LemonJelly.ttf": "/Portfolio/static/media/LemonJelly.2bf6b5276aabe7e19e82.ttf",
+    "static/media/thumbnail_4.png": "/Portfolio/static/media/thumbnail_4.97ded8c723f59e22d09d.png",
+    "static/media/thumbnail_3.png": "/Portfolio/static/media/thumbnail_3.7c7f59c52024d91c5b7a.png",
+    "static/media/thumbnail_5.png": "/Portfolio/static/media/thumbnail_5.e426d337ea8b1c89c3af.png",
+    "static/media/Ankh.ttf": "/Portfolio/static/media/Ankh.14b8d3aaa658b8f9ff7a.ttf",
+    "static/media/DINNeuzeitGroteskStdBdCond.otf": "/Portfolio/static/media/DINNeuzeitGroteskStdBdCond.6baec9697c755a121a39.otf",
+    "static/media/streak.png": "/Portfolio/static/media/streak.1a6b39c9409fd94856c5.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ff11e329.css.map": "/Portfolio/static/css/main.ff11e329.css.map",
+    "main.d095dd4a.js.map": "/Portfolio/static/js/main.d095dd4a.js.map",
+    "488.9561f9b8.chunk.js.map": "/Portfolio/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff11e329.css",
+    "static/js/main.d095dd4a.js"
+  ]
+}
